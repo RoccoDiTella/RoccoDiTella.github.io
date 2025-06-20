@@ -13,4 +13,5 @@ I'm a researcher in machine learning, statistics, and neuroscience.
 
 #### More info
 
-[CV](cv.pdf) · [GitHub](https://github.com/RoccoDiTella)
+[CV](https://roccoditella.github.io/cv.pdf
+) · [GitHub](https://github.com/RoccoDiTella)
