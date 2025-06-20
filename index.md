@@ -11,6 +11,6 @@ I'm a researcher in machine learning, statistics, and neuroscience.
 - **Honest LLMs through introspection** – Statistically sound measures of LLM confidence with probes.
 - **Visual Attention** – Thesis work: Do Neural Networks implicitly model Human visual attention?
 
-### More info
+#### More info
 
 [CV](cv.pdf) · [GitHub](https://github.com/RoccoDiTella)
