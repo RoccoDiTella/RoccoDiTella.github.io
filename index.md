@@ -1,4 +1,7 @@
-# Rocco Di Tella
+---
+layout: default
+title: Rocco Di Tella
+---
 
 I'm a researcher in machine learning, statistics, and neuroscience.
 
