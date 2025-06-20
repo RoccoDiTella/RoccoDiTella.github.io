@@ -2,7 +2,7 @@
 layout: default
 title: Rocco Di Tella
 ---
-
+# Rocco Di Tella
 I'm a researcher in machine learning, statistics, and neuroscience.
 
 ## Projects
