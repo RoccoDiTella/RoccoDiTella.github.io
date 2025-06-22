@@ -9,16 +9,21 @@ I'm a researcher in machine learning, statistics, and neuroscience. Based in Bue
 ## Ongoing Projects
 
 - **Multi Modal Galaxies**
+
   Experiments on Transformer-based Flow Matching to generate multimodal joint distributions.
 - **Honest LLMs through introspection**
+
   Statistically sound measures of LLM confidence with probes.
 
 ## Past projects
 - **Visual Attention**
+
   Do Neural Networks implicitly model Human visual attention?
 - **Active Learning for more efficient LLM rankings**
+
   Leveraging statistical active learning to make more efficient LLM comparisons
 - **Fast non-parametric Bayesian algorithm for more efficient online experiments**
+
   A very fast algorithm that enables experiments to optimize their tasks on the fly
 
 ## Teaching
