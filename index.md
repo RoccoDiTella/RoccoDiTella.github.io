@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Rocco Di Tella
 ---
 I'm a researcher in machine learning, statistics, and neuroscience. Based in Buenos Aires, currently in Boston.
