@@ -2,8 +2,11 @@
 layout: default
 title: Rocco Di Tella
 ---
-I use tools (Machine Learning and Statistics) for science (Neurscience, Astrophysics).
-Currently based in Boston. My current projects are in the context of [AstroAI](https://astroai.cfa.harvard.edu/) and Harvard & Smithsonian Center for Astrophysics.
+Currently based in Boston. 
+
+I use tools (Machine Learning and Statistics) for science (Neuroscience, Astrophysics).
+My current projects are in the context of [AstroAI](https://astroai.cfa.harvard.edu/), Harvard & Smithsonian Center for Astrophysics.
+MSc in Data Science from Universidad de Buenos Aires.
 
 [CV](https://roccoditella.github.io/cv.pdf)
 
