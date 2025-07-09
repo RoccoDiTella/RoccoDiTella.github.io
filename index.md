@@ -9,21 +9,21 @@ Currently based in Boston. My current projects are in the context of [AstroAI](h
 
 ## Ongoing Projects
 
-- **Multi Modal Galaxies** | [AstroAI](https://astroai.cfa.harvard.edu/), Center for Astrophysics Harvard & Smithsonian
+- **Multi Modal Galaxies** \| [AstroAI](https://astroai.cfa.harvard.edu/), Center for Astrophysics Harvard & Smithsonian
 
   Experiments on Transformer-based Flow Matching to generate multimodal joint distributions.
-- **Honest LLMs through introspection** | AI Safety Argentina & Instituto de Ciencias de la Computación
+- **Honest LLMs through introspection** @ AI Safety Argentina & Instituto de Ciencias de la Computación
 
   Statistically sound measures of LLM confidence with probes.
 
 ## Past projects
-- **Visual Attention** | [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School
+- **Visual Attention** \| [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School
 
   Do Neural Networks implicitly model Human visual attention?
-- **Active Learning for more efficient LLM rankings** | Instituto de Ciencias de la Computación
+- **Active Learning for more efficient LLM rankings** \| Instituto de Ciencias de la Computación
 
   Leveraging statistical active learning to make more efficient LLM comparisons
-- **Fast non-parametric Bayesian algorithm for more efficient online experiments** | Universidad de Buenos Aires
+- **Fast non-parametric Bayesian algorithm for more efficient online experiments** \| Universidad de Buenos Aires
 
   A very fast algorithm that enables experiments to optimize their tasks on the fly
 
