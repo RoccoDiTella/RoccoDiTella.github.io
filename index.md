@@ -35,8 +35,8 @@ Currently based in Boston.
 
 ## Teaching
 - Course coming up this August: Machine Learning for Astrophysics \| UBA
-- 4 distinct courses on: Statistics, Bayesian Statistics, Causal Inference \| UBA
-- One very hands on course on Machine Learning (from backprop to generative modelling) \| UdeSA
+- Three separate graduate courses on: Statistics, Bayesian Statistics, Causal Inference \| UBA
+- One very hands on course on Machine Learning \| UdeSA
 
 ## Non-academic science writing
 (In spanish)
