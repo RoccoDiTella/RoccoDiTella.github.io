@@ -5,9 +5,12 @@ title: Rocco Di Tella
 rocco.di_tella at cfa.harvard.edu
 
 
-I use tools (Machine Learning and Statistics) for science (Neuroscience, Astrophysics).
+I use tools Machine Learning and Statistics for Neuroscience and Astrophysics.
+
 My current projects are in the context of [AstroAI](https://astroai.cfa.harvard.edu/), Harvard & Smithsonian Center for Astrophysics.
+
 MSc in Data Science from Universidad de Buenos Aires.
+
 Currently based in Boston. 
 
 
