@@ -5,6 +5,8 @@ permalink: /youtube/
 
 ---
 
-Notes here.
-
+### One video
+<details>
 {% include youtube.html id="iKwRWwabkEc" %}
+
+</details>
