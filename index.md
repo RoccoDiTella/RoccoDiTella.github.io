@@ -53,11 +53,3 @@ Currently based in Boston.
 
 
 
-
-
-
-### TESTING YOUTUBE EMBED
-
-
-{% include youtube.html id="iKwRWwabkEc" %}
-
