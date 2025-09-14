@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Unlisted Notes
+permalink: /youtube/
+
 ---
 
 Notes here.
