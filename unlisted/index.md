@@ -14,6 +14,15 @@ permalink: /youtube/
 </details>
 
 ### Watch Later
+
+<details>
+    <summary><strong>
+        Neel Nanda 80,000 Hours
+    </strong></summary>
+    {% include youtube.html id="MfMq4sVJSFc" %}
+
+</details>
+
 <details>
     <summary><strong>
         Building Your Own Unified AI Assistant Using Claude Code
@@ -21,6 +30,8 @@ permalink: /youtube/
     {% include youtube.html id="iKwRWwabkEc" %}
 
 </details>
+
+
 
 
 
