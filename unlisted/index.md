@@ -23,6 +23,19 @@ permalink: /youtube/
 
 </details>
 
+<br>
+
+<details>
+    <summary><strong>
+        Puer Dr K
+    </strong></summary>
+    {% include youtube.html id="2Z3RcXlNaMw" %}
+
+</details>
+
+
+<br>
+
 <details>
     <summary><strong>
         Building Your Own Unified AI Assistant Using Claude Code
@@ -30,8 +43,5 @@ permalink: /youtube/
     {% include youtube.html id="iKwRWwabkEc" %}
 
 </details>
-
-
-
 
 
