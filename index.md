@@ -2,12 +2,10 @@
 layout: default
 title: Rocco Di Tella
 ---
-rocco.di_tella at cfa.harvard.edu
+Rocco.di_tella (at) CfA.harvard.edu
 
 
 Interpretable AI for science.
-
-Working at [https://astroai.cfa.harvard.edu/](https://astroai.cfa.harvard.edu/), Harvard & Smithsonian Center for Astrophysics.
 
 MSc in Data Science from Universidad de Buenos Aires.
 
@@ -18,7 +16,7 @@ MSc in Data Science from Universidad de Buenos Aires.
 - **Predicting Black Hole X-ray Emission from Multimodal Data** — a [normalizing-flow model on AION embeddings](https://github.com/RoccoDiTella/erosita-desi-aion-flow) measuring how much of a black hole's X-ray emission is predictable from optical and infrared views of its host galaxy.
 
 ## Past Projects
-- **Honest LLMs through introspection** \| [ICC](https://icc.fcen.uba.ar/) — statistically sound measures of LLM confidence with probes.
+- **Honest LLMs through introspection** \| [Luciana Ferrer](https://www.liaa.dc.uba.ar/equipo/luciana-ferrer/), [LIAA](https://www.liaa.dc.uba.ar/) — statistically sound measures of LLM confidence with probes.
 - **Visual Search** \| [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School — do neural networks implicitly model human visual attention?
 
 ## Teaching
