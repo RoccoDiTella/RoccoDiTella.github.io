@@ -5,13 +5,13 @@ title: Rocco Di Tella
 rocco.di_tella at cfa.harvard.edu
 
 
-I use tools Machine Learning and Statistics for Neuroscience and Astrophysics.
+I use tools from Machine Learning and Statistics for Neuroscience and Astrophysics.
 
 My current projects are in the context of [AstroAI](https://astroai.cfa.harvard.edu/), Harvard & Smithsonian Center for Astrophysics.
 
 MSc in Data Science from Universidad de Buenos Aires.
 
-Currently based in Boston. 
+Currently based in Boston.
 
 
 [CV](https://roccoditella.github.io/cv.pdf)
@@ -25,19 +25,19 @@ Currently based in Boston.
 
   Statistically sound measures of LLM confidence with probes.
 
-## Past projects
+## Past Projects
 - **Visual Attention** \| [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School
 
   Do Neural Networks implicitly model Human visual attention?
 - **Active Learning for more efficient LLM rankings** \| ICC
 
   Leveraging statistical active learning to make more efficient LLM comparisons
-- **Fast non-parametric Bayesian algorithm for more efficient online experiments** \| [Nueroscience Lab, UTDT](https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132)
+- **Fast non-parametric Bayesian algorithm for more efficient online experiments** \| [Neuroscience Lab, UTDT](https://www.utdt.edu/ver_contenido.php?id_contenido=10518&id_item_menu=20132)
 
   A very fast algorithm that enables experiments to optimize their tasks on the fly
 
 ## Teaching
-- Course coming up this August: Machine Learning for Astrophysics \| UBA
+- Machine Learning for Astrophysics \| UBA
 - Three separate graduate courses on: Statistics, Bayesian Statistics, Causal Inference \| UBA
 - One very hands on course on Machine Learning \| UdeSA
 
