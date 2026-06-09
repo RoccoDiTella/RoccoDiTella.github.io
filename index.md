@@ -5,9 +5,7 @@ title: Rocco Di Tella
 Rocco.di_tella (at) CfA.harvard.edu
 
 
-Interpretable AI for science.
-
-MSc in Data Science from Universidad de Buenos Aires.
+Interpretable AI for science at [AstroAI](https://astroai.cfa.harvard.edu/).
 
 [CV](https://roccoditella.github.io/cv.pdf)
 
@@ -18,16 +16,6 @@ MSc in Data Science from Universidad de Buenos Aires.
 ## Past Projects
 - **Honest LLMs through introspection** \| [Luciana Ferrer](https://www.liaa.dc.uba.ar/equipo/luciana-ferrer/), [LIAA](https://www.liaa.dc.uba.ar/) — statistically sound measures of LLM confidence with probes.
 - **Visual Search** \| [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School — do neural networks implicitly model human visual attention?
-
-## Teaching
-- Machine Learning for Astrophysics \| UBA
-- Three separate graduate courses on: Statistics, Bayesian Statistics, Causal Inference \| UBA
-- One very hands on course on Machine Learning \| UdeSA
-
-## Non-academic science writing
-(In spanish)
-- [El Gato y La Caja](https://elgatoylacaja.com/author/roccoelgatoylacaja-com)
-- [El Baikal](https://www.elbaikal.com/author/rocco-di-tella/)
 
 ## Things I liked (and you might too)
 - [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
