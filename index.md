@@ -7,7 +7,7 @@ rocco.di_tella at cfa.harvard.edu
 
 I use tools from Machine Learning and Statistics for Neuroscience and Astrophysics.
 
-My current projects are in the context of [AstroAI](https://astroai.cfa.harvard.edu/), Harvard & Smithsonian Center for Astrophysics.
+My current work is in the context of [AstroAI](https://astroai.cfa.harvard.edu/), Harvard & Smithsonian Center for Astrophysics.
 
 MSc in Data Science from Universidad de Buenos Aires.
 
@@ -16,16 +16,19 @@ Currently based in Boston.
 
 [CV](https://roccoditella.github.io/cv.pdf)
 
-## Ongoing Projects
+## Current Project
 
+- **Predicting Black Hole X-ray Emission from Multimodal Data** \| [AstroAI](https://astroai.cfa.harvard.edu/), Harvard Center for Astrophysics
+
+  A [normalizing-flow model](https://github.com/RoccoDiTella/erosita-desi-aion-flow) that quantifies how much of a black hole's X-ray emission can be predicted from optical and infrared observations of its host galaxy.
+
+## Past Projects
 - **Multi Modal Galaxies** \| [AstroAI](https://astroai.cfa.harvard.edu/), Harvard Center for Astrophysics
 
-  Experiments on Transformer-based Flow Matching to generate multimodal joint distributions.
+  Transformer-based Flow Matching to generate multimodal joint posteriors for galaxy images and X-ray spectra.
 - **Honest LLMs through introspection** \| [AI Safety Argentina](https://scholarship.aisafety.ar/program/) \& [ICC](https://icc.fcen.uba.ar/)
 
   Statistically sound measures of LLM confidence with probes.
-
-## Past Projects
 - **Visual Attention** \| [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School
 
   Do Neural Networks implicitly model Human visual attention?
