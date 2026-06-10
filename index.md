@@ -2,11 +2,11 @@
 layout: default
 title: Rocco Di Tella
 ---
-## Interpretable AI for science
+- I am interested in scientific (theoretical + empirical) frameworks for understanding AI, and in advancing science using AI responsibly.
 
 ## Currently working on
 
-- **[Predicting Black Hole X-ray Emission from Multimodal Data](https://github.com/RoccoDiTella/erosita-desi-aion-flow)** \| [AstroAI](https://astroai.cfa.harvard.edu/)
+- **Predicting Black Hole X-ray Emission from Multimodal Data** \| [AstroAI](https://astroai.cfa.harvard.edu/)
 
   Measuring mutual information between X-ray emission from a black hole and optical information from its host galaxy using physical foundation models.
 
