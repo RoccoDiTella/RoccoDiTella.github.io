@@ -2,7 +2,7 @@
 layout: default
 title: Rocco Di Tella
 ---
-**I am interested in scientific (theoretical + empirical) frameworks for understanding AI, and in advancing science using AI responsibly.**
+**I work on scientific frameworks for understanding AI, and on using AI to advance science.**
 
 ## Currently working on
 
