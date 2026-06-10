@@ -2,7 +2,7 @@
 layout: default
 title: Rocco Di Tella
 ---
-## Interpretable AI for science at [AstroAI](https://astroai.cfa.harvard.edu/)
+## Interpretable AI for science
 
 ✉️ rocco.di_tella (at) cfa.harvard.edu
 
@@ -10,19 +10,19 @@ title: Rocco Di Tella
 
 ## Currently working on
 
-- **Predicting Black Hole X-ray Emission from Multimodal Data**
+- **Predicting Black Hole X-ray Emission from Multimodal Data** \| [AstroAI](https://astroai.cfa.harvard.edu/)
 
-  How much of a black hole's X-ray emission is predictable from optical and infrared views of its galaxy? A [normalizing flow over AION embeddings](https://github.com/RoccoDiTella/erosita-desi-aion-flow) that says: a lot.
+  Measuring mutual information between X-ray emission from a black hole and optical information from its host galaxy using physical foundation models. ([code](https://github.com/RoccoDiTella/erosita-desi-aion-flow))
 
 ## Some previous projects
 
-- **Honest LLMs through introspection** \| [Luciana Ferrer](https://www.liaa.dc.uba.ar/equipo/luciana-ferrer/), [LIAA](https://www.liaa.dc.uba.ar/)
+- **Honest LLMs through introspection** \| [LIAA](https://www.liaa.dc.uba.ar/)
 
   Detecting hallucinations in language models with calibration and probing, for honest confidence estimates.
 
-- **Visual Search** \| [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School
+- **Visual search (Finding Waldo)** \| [Kreiman Lab](https://klab.tch.harvard.edu/), Harvard Medical School
 
-  Do convolutional networks searching a cluttered scene reproduce human gaze? Modelling visual attention, a.k.a. "Finding Waldo".
+  Exploring the emergent similarity of visual attention in CNNs and in human brains.
 
 ## Things I liked (and you might too)
 - Borges, [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
