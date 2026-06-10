@@ -8,7 +8,7 @@ rocco.di_tella (at) cfa.harvard.edu
 
 [CV](https://roccoditella.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/rocco-di-tella-a10a03127/) · [GitHub](https://github.com/RoccoDiTella) · [Twitter](https://x.com/Rocco_DiTella)
 
-## Current Project
+## Currently working on
 
 - **Predicting Black Hole X-ray Emission from Multimodal Data**
 
@@ -25,7 +25,7 @@ rocco.di_tella (at) cfa.harvard.edu
   Modelling human visual attention with convolutional neural networks — testing whether networks trained to find a target in a cluttered scene implicitly reproduce human gaze and search behaviour (the "Finding Waldo" problem).
 
 ## Things I liked (and you might too)
-- [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
-- [Analogy as the Core of Cognition](https://www.youtube.com/watch?v=n8m7lFQ3njk)
-- [A Good ML Theory is Like Physics](https://zimingliublog.wordpress.com/2023/06/16/a-good-ml-theory-is-like-physics-a-physicists-analysis-of-grokking/)
-- [Google Part III: The AI Company](https://open.spotify.com/episode/1WICjyeivPI7KqGFq4zFKe)
+- Borges, [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
+- Hofstadter, [Analogy as the Core of Cognition](https://www.youtube.com/watch?v=n8m7lFQ3njk)
+- Ziming Liu, [A Good ML Theory is Like Physics](https://zimingliublog.wordpress.com/2023/06/16/a-good-ml-theory-is-like-physics-a-physicists-analysis-of-grokking/)
+- Acquired, [Google Part III: The AI Company](https://open.spotify.com/episode/1WICjyeivPI7KqGFq4zFKe)
