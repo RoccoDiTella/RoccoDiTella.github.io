@@ -21,7 +21,7 @@ title: Rocco Di Tella
   Exploring the emergent similarity of visual attention in CNNs and in human brains.
 
 ## Things I liked (and you might too)
-- Borges, [The Analytical Language of John Wilkins](https://en.wikipedia.org/wiki/The_Analytical_Language_of_John_Wilkins)
+- Borges, [The Analytical Language of John Wilkins](https://ciudadseva.com/texto/el-idioma-analitico-de-john-wilkins/)
 - Hofstadter, [Analogy as the Core of Cognition](https://worrydream.com/refs/Hofstadter_2001_-_Analogy_as_the_Core_of_Cognition.pdf)
 - Ziming Liu, [A Good ML Theory is Like Physics](https://zimingliublog.wordpress.com/2023/06/16/a-good-ml-theory-is-like-physics-a-physicists-analysis-of-grokking/)
 - Acquired, [Google Part III: The AI Company](https://open.spotify.com/episode/1WICjyeivPI7KqGFq4zFKe)
