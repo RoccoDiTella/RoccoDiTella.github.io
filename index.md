@@ -28,6 +28,9 @@ title: Rocco Di Tella
 
   Exploring the emergent similarity of visual attention in CNNs and in human brains.
 
+## Writing
+- **[Thinking out of distribution: what a PhD must train in the age of AI](https://doi.org/10.1093/ajeadv/uuag039)**, with Juan Gago and Joy Shi. *AJE Advances: Research in Epidemiology* (2026).
+
 ## Things I liked (and you might too)
 - Borges, [El idioma analítico de John Wilkins](https://ciudadseva.com/texto/el-idioma-analitico-de-john-wilkins/)
 - Hofstadter, [Analogy as the Core of Cognition](https://worrydream.com/refs/Hofstadter_2001_-_Analogy_as_the_Core_of_Cognition.pdf)
