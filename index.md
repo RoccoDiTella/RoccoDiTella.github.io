@@ -6,17 +6,25 @@ title: Rocco Di Tella
 
 ## Currently working on
 
-- **Predicting Black Hole X-ray Emission from Multimodal Data** \| [AstroAI](https://astroai.cfa.harvard.edu/)
+- **The loss landscape is the physics** \| [AstroAI](https://astroai.cfa.harvard.edu/), CfA
 
-  Measuring mutual information between X-ray emission from a black hole and optical information from its host galaxy using physical foundation models.
+  Building a bridge between the loss landscape of a PINN and the physics of the system it represents.
+
+- **Compact analytical black hole solutions in Einstein–Gauss–Bonnet gravity** \| [AstroAI](https://astroai.cfa.harvard.edu/), CfA
+
+  Using LLMs to find new black hole solutions in this generalization of general relativity.
 
 ## Some previous projects
 
-- **Honest LLMs through introspection** \| [LIAA](https://www.liaa.dc.uba.ar/)
+- **Predicting Black Hole X-ray Emission from Multimodal Data** \| [AstroAI](https://astroai.cfa.harvard.edu/), CfA
+
+  Measuring mutual information between X-ray emission from a black hole and optical information from its host galaxy using physical foundation models ([paper](https://openreview.net/forum?id=hrcDSIlR90), [code](https://github.com/RoccoDiTella/aion-flow_v2)).
+
+- **Honest LLMs through introspection** \| [LIAA](https://www.liaa.dc.uba.ar/), UBA
 
   Detecting hallucinations in language models with calibration and probing, for honest confidence estimates.
 
-- **Visual search (Finding Waldo)** \| [Kreiman Lab](https://klab.tch.harvard.edu/)
+- **Visual search (Finding Waldo)** \| [Kreiman Lab](https://klab.tch.harvard.edu/), HMS
 
   Exploring the emergent similarity of visual attention in CNNs and in human brains.
 
