@@ -10,9 +10,9 @@ title: Rocco Di Tella
 
   Building a bridge between the loss landscape of a PINN and the physics of the system it represents.
 
-- **Compact analytical black hole solutions in Einstein–Gauss–Bonnet gravity** \| [AstroAI](https://astroai.cfa.harvard.edu/), CfA
+- **Compact analytical black hole solutions** \| [AstroAI](https://astroai.cfa.harvard.edu/), CfA
 
-  Using LLMs to find new black hole solutions in this generalization of general relativity.
+  Using LLMs to find new black hole solutions in Einstein–Gauss–Bonnet gravity, a generalization of general relativity.
 
 ## Some previous projects
 
